@@ -1,8 +1,7 @@
 const CONFIG = {
     introTitle: 'Dear Trịnh Thị Kiều Hương!',
     introDesc: `I still remember the first time 
-    i saw u and that 
-    feeling was phenomenal :3`,
+    i saw u and that feeling was phenomenal :3`,
     btnIntro: 'hihi',
     title: 'Phải chăng Hương đã thích tui ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng Hương đã say cái bụng mỡ này :3 ',
