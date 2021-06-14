@@ -1,7 +1,8 @@
 const CONFIG = {
     introTitle: 'Hương ơi!',
     introDesc: `I still remember the first time 
-    i saw u and that feeling was phenomenal`,
+    i saw u and that 
+    feeling was phenomenal`,
     btnIntro: 'hihi',
     title: 'Phải chăng Hương đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng Hương đã say cái bụng mỡ này :3 ',
